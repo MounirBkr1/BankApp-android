@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BankApp-v1</string>
+
+    <string name="connection">Se Connecter</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="compte">N° compte:</string>
+    <string name="ref">Reference:</string>
+    <string name="solde">Solde:</string>
+    <string name="montant">Montant:</string>
+    <string name="date">Date:</string>
+    <string name="desc">Description:</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps_app">mapsApp</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <string name="title_activity_maps3">MapsActivity3</string>
+    <string name="Map_Key">AIzaSyCvkX1v6Dl-1UAEi9L8Xbr7gaHDtpqrNpk</string>
+
+
+
+<!--    facebook login-->
+    <string name="facebook_app_id">1234</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+
+
+
+
+</resources>
